@@ -1,6 +1,5 @@
 # Desafio 01: Pig Latin
 
-## Enunciado
 Mover a primeira letra de cada palavra para o final e adicionar "ay" ao final.  
 Exemplo:
 - Entrada: "Pig latin is cool"
